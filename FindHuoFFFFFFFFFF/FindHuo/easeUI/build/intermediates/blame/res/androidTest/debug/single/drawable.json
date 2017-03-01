@@ -20,12 +20,12 @@
         "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
-        "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
-    },
-    {
         "merged": "D:\\3\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_btn_cancel_bj.xml",
         "source": "D:\\3\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_btn_cancel_bj.xml"
+    },
+    {
+        "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
     },
     {
         "merged": "D:\\3\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_common_tab_bg.xml",
@@ -124,12 +124,12 @@
         "source": "D:\\3\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chat_send_btn_selector.xml"
     },
     {
-        "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_light.xml",
         "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "D:\\3\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",

@@ -40,12 +40,12 @@
         "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
-        "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "D:\\3\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_contact_list.xml",
         "source": "D:\\3\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\src\\main\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_expression.xml",

@@ -40,12 +40,12 @@
         "source": "D:\\3\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\src\\main\\res\\anim\\head_out.xml"
     },
     {
-        "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\release\\anim\\push_top_out2.xml",
-        "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\src\\main\\res\\anim\\push_top_out2.xml"
-    },
-    {
         "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\release\\anim\\hold.xml",
         "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\release\\anim\\push_top_out2.xml",
+        "source": "D:\\AFindWorkEr\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\src\\main\\res\\anim\\push_top_out2.xml"
     },
     {
         "merged": "D:\\3\\FindHuoFFFFFFFFFF\\FindHuo\\easeUI\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_out.xml",
