@@ -9,6 +9,7 @@ import com.google.gson.annotations.SerializedName;
 public class LotteryAddPayMsBean {
 
     /**
+     *
      * res : 10001
      * cache_update : 10000
      * data : {"appid":"wx63c88ed7e6190564","noncestr":"AAmKRjronH38MAgxymEbjAYWCnJhOj3H","package":"Sign=WXPay","partnerid":"1436891202","prepayid":"wx201703011403538e992553090757541465","timestamp":1488348234,"sign":"919B057766B54298E585C47AE9ACD401","packagestr":"Sign=WXPay"}

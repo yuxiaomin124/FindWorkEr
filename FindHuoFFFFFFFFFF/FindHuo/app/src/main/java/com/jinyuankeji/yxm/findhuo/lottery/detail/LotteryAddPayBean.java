@@ -7,6 +7,7 @@ package com.jinyuankeji.yxm.findhuo.lottery.detail;
 public class LotteryAddPayBean {
 
     /**
+     *
      * res : 10001
      * cache_update : 10000
      * data : 41

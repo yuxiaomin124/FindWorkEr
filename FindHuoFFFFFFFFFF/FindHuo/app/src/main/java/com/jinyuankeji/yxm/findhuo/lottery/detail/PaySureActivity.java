@@ -92,7 +92,7 @@ public class PaySureActivity extends BaseActivity {
     public void showAlertDialog() {
         AlertDialog.Builder alert1 = new AlertDialog.Builder(this);
         alert1.setMessage("付款成功。");
-
+//
         alert1.setNegativeButton("取消", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {

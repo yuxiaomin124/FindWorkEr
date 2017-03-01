@@ -16,7 +16,7 @@ public class DataValue {
     public static String FINDWORK_TYPE_TV_OR = "";
     public static String FINDHUO_DETAIL_NOR = "";//详情标签标题
     public static String FINDCAR_DETAIL_ID = "";//找车详情id
-    public static String FINDHUO_CHAT = "";
+    public static String FINDHUO_CHAT = "";///
     public static MoreBean LOTTERY_VIEWPAGER_BEAN = null;
     public static String LOTTERY_MAIN_ID = "";
     //找零工首页实体类

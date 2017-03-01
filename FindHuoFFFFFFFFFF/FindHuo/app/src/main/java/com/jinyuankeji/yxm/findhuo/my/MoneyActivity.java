@@ -56,6 +56,7 @@ public class MoneyActivity extends Activity {
 
 
                 pay();
+                //
             }
         });
 

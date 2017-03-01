@@ -56,7 +56,7 @@ public class URLValue {
     public static String appRegist= "appRegist";
     //登录
     public static String appLogin= "appLogin";
-    //我的界面、个人信息读取、消息提醒读取、账户余额
+    //我的界面、个人信息读取、消息提醒读取、账户余额////
     public static String userInfo= "userInfo";
     //消息通知
     public static String noticeList= "noticeList";

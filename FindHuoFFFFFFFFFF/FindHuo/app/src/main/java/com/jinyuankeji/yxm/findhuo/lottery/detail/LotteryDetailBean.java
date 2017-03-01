@@ -8,6 +8,7 @@ public class LotteryDetailBean {
 
 
     /**
+     * 
      * res : 10001
      * cache_update : 10000
      * data : {"id_lottery":"15","lotteryname":"彩票站1","img":"http://zhaohuo.jinyuankeji.net/Uploads/Lottery/20170112/58773136a5c92.png","imgsmall":"/Uploads/Lottery/20170112/58773136a60ae.png","tel":"024-2333333","province":"18","city":"244","address":"辽宁沈阳和平大街别斯路","create_time":"0000-00-00 00:00:00","content":"简介1简介1简介1简介1","status":"1","sort":"1","summary1":"简介1简介1简介1简介1","summary2":"简介1简介1简介1简介1","summary3":"简介1简介1简介1简介1"}

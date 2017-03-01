@@ -8,6 +8,7 @@ public class LotteryDetailPayBean {
 
 
     /**
+     *
      * res : 10001
      * cache_update : 10000
      * data : 14

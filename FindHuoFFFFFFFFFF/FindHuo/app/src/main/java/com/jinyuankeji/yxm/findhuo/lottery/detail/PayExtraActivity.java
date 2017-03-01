@@ -27,6 +27,7 @@ import com.lidroid.xutils.http.client.HttpRequest;
 public class PayExtraActivity extends BaseActivity {
     private Button rvPay;
     private ImageView back;
+    //
 
     @Override
     protected int initLayout() {

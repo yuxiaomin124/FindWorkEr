@@ -25,6 +25,6 @@ public class WelcomeActivity extends Activity{
                 startActivity(it);
                 finish();
             }
-        });
+        });//
     }
 }

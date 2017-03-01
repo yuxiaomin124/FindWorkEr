@@ -47,6 +47,7 @@ public class LotteryDetailActivity extends BaseActivity {
     private TextView tvName, tvAddr, tvTel, tvHeBug, tvPrice, tvJindu, tvContent;
     private ImageView ivImg;
     private EditText etPrice;
+    //
 
     @Override
     protected int initLayout() {
