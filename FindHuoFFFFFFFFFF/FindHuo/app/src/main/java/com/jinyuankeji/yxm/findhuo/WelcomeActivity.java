@@ -11,8 +11,9 @@ import android.widget.LinearLayout;
  * Created by Administrator on 2017/1/7 0007.
  */
 
-public class WelcomeActivity extends Activity{
+public class WelcomeActivity extends Activity {
     private LinearLayout image;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,7 +22,7 @@ public class WelcomeActivity extends Activity{
         image.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent it  = new Intent(WelcomeActivity.this,LoginActivity.class);
+                Intent it = new Intent(WelcomeActivity.this, LoginActivity.class);
                 startActivity(it);
                 finish();
             }

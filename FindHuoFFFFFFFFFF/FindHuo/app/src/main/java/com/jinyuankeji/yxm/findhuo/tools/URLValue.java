@@ -43,6 +43,10 @@ public class URLValue {
     public static String URL_LOTTERY_PAY_CREATE= "orderCreate";
     //搜索技工
     public static String URL_FINDWORK_SEARCH_JIGONG= "introduceFind";
+    //生成预付单接口
+    public static String URL_LOTTERY_PAY_PRE= "wechat_pay";
+    //生成充值订单
+    public static String URL_MY_GET_PAY= "rechargeOrder";
 
 
     //短信验证

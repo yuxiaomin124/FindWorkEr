@@ -1,4 +1,4 @@
-package com.jinyuankeji.yxm.findhuo;
+package com.jinyuankeji.yxm.findhuo.lottery.detail;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
+import com.jinyuankeji.yxm.findhuo.Constants;
+import com.jinyuankeji.yxm.findhuo.R;
 import com.tencent.mm.opensdk.constants.ConstantsAPI;
 import com.tencent.mm.opensdk.modelbase.BaseReq;
 import com.tencent.mm.opensdk.modelbase.BaseResp;

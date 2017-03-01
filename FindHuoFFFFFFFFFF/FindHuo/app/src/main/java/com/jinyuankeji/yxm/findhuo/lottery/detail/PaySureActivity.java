@@ -37,7 +37,6 @@ public class PaySureActivity extends BaseActivity {
     private Button rvPay;
     private ImageView back;
     private EditText etPassword;
-    private Button btnPay;
 
     @Override
     protected int initLayout() {
@@ -49,7 +48,7 @@ public class PaySureActivity extends BaseActivity {
         rvPay = (Button) findViewById(R.id.btn_lottery_pay_sure);
         back = (ImageView) findViewById(R.id.lottery_pay_sure_back);
         etPassword = (EditText) findViewById(R.id.et_lottery_pay_sure_password);
-        btnPay = (Button) findViewById(R.id.pay);
+
     }
 
     @Override
@@ -65,7 +64,7 @@ public class PaySureActivity extends BaseActivity {
             public void onClick(View v) {
 
                 if (etPassword.getText().toString().length() >= 0) {
-                    Toast.makeText(PaySureActivity.this, "获取焦点" + etPassword.getText().toString().length(), Toast.LENGTH_SHORT).show();
+
                     rvPay.setBackgroundResource(R.mipmap.btn_pay_selected3x);
                     rvPay.setTextColor(Color.WHITE);
 
@@ -87,12 +86,7 @@ public class PaySureActivity extends BaseActivity {
             }
         });
 
-        btnPay.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-//                pay();
-            }
-        });
+
     }
 
 
@@ -168,43 +162,6 @@ public class PaySureActivity extends BaseActivity {
     }
 
 
-    IWXAPI api;
-
-//    private void pay() {
-//        api = WXAPIFactory.createWXAPI(this, Constants.APP_ID);
-//
-//        try {
-//            byte[] buf = Util.httpGet(url);
-//            Log.d("PayActivity", "buf:" + buf);
-//
-//            if (buf != null && buf.length > 0) {
-//                String content = new String(buf);
-//                Log.e("get server pay params:", content);
-//                JSONObject json = new JSONObject(content);
-//                if (null != json && !json.has("retcode")) {
-//                    PayReq request = new PayReq();
-//                    request.appId = "wx63c88ed7e6190564";
-//                    request.partnerId = "1900000109";
-//                    request.prepayId = "1101000000140415649af9fc314aa427";
-//                    request.packageValue = "Sign=WXPay";
-//                    request.nonceStr = "1101000000140429eb40476f8896f4c9";
-//                    request.timeStamp = "1398746574";
-//                    request.sign = "c1a27813d84137e40538d2df93c800ff";
-//                    api.sendReq(request);
-//                    Toast.makeText(PaySureActivity.this, "正常调起支付", Toast.LENGTH_SHORT).show();
-//                } else {
-//                    Log.d("PAY_GET", "返回错误" + json.getString("retmsg"));
-//                    Toast.makeText(PaySureActivity.this, "返回错误" + json.getString("retmsg"), Toast.LENGTH_SHORT).show();
-//                }
-//            } else {
-//                Log.d("PAY_GET", "服务器请求错误");
-//                Toast.makeText(PaySureActivity.this, "服务器请求错误", Toast.LENGTH_SHORT).show();
-//            }
-//        } catch (Exception e) {
-//            Log.e("PAY_GET", "异常：" + e.getMessage());
-//            Toast.makeText(PaySureActivity.this, "异常：" + e.getMessage(), Toast.LENGTH_SHORT).show();
-//        }
-//    }
 
 
 }
